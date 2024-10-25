@@ -8,6 +8,8 @@ Different kinds of bait can be unlocked from the [Fishing Store](/pages/shops/fi
 
 The bait you use when fishing determines what tier and what quality of fish you can catch.  Higher quality bait will cost more money to restock.
 
+Bait always costs the same amount to restock to full, regardless of what tackle upgrade tier you have.
+
 ## List of bait
 | Name       | Max Tier | Quality Chances | Unlock Cost | Restock Cost |
 |------------|----------|-----------------|-------------|--------------|
